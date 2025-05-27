@@ -1,8 +1,8 @@
 {
   "name": "API + Frontend Dev Container",
-  "image": "mcr.microsoft.com/dotnet/sdk:9.0",
-  "postCreateCommand": "cd Backend && dotnet restore",
-  "postStartCommand": "cd Backend && dotnet run --urls=http://0.0.0.0:5260 & cd ../frontend && npm install && npm run dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   "forwardPorts": [5260, 5173],
   "remoteUser": "root",
   "workspaceFolder": "/workspaces/taskify"
