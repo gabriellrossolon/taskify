@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhonNq/412Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sistema - Asstramed\\Desktop\\Pessoal\\Dev\\1_PROJETOS\\Taskify\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
