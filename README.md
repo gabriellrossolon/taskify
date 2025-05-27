@@ -21,10 +21,6 @@ TaskiFy é uma aplicação moderna de lista de tarefas (**ToDo List**) que ajuda
 
 ---
 
-
-
----
-
 ## 🎯 Funcionalidades
 ✅ Adicionar, editar e excluir tarefas
 
