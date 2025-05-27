@@ -1,9 +1,0 @@
-{
-  "name": "API + Frontend Dev Container",
-  "build": {
-    "dockerfile": "Dockerfile"
-  },
-  "forwardPorts": [5260, 5173],
-  "remoteUser": "root",
-  "workspaceFolder": "/workspaces/taskify"
-}
