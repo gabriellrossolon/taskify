@@ -21,29 +21,43 @@ TaskiFy é uma aplicação moderna de lista de tarefas (**ToDo List**) que ajuda
 
 ---
 
-## 📦 Como rodar o projeto localmente
+
+
+---
+
+## 🎯 Funcionalidades
+✅ Adicionar, editar e excluir tarefas
+
+✅ Marcar tarefas como concluídas
+
+✅ Filtrar tarefas por status
+
+✅ Integração frontend ↔️ backend
+
+✅ Interface responsiva e intuitiva
+
+---
+
+## 📂 Estrutura do Projeto
+```bash
+TaskiFy/
+├── frontend/       # Aplicação React + Vite
+└── backend/        # API ASP.NET Core
+```
+
+---
 
 ### ⚙️ Pré-requisitos
 
 - Node.js
 - .NET 7 SDK ou superior
 - Git
+- 
+---
+
+## 📦 Como rodar o projeto localmente
 
 ### 🚀 Instalação e execução
-
-```bash
-# Clone o repositório
-git clone https://github.com/seunome/TaskiFy.git
-
-# Acesse a pasta do frontend
-cd TaskiFy/frontend
-
-# Instale as dependências
-npm install
-
-# Rode a aplicação React
-npm run dev
-
 ```bash
 # Clone o repositório
 git clone https://github.com/seunome/TaskiFy.git
@@ -58,7 +72,26 @@ npm install
 npm run dev
 ```
 
-#aa
+# Abra o terminal , vá para a pasta do frontend
+```bash
+# Acesse a pasta do frontend
+cd TaskiFy/frontend
+
+# Instale as dependências
+npm install
+
+# Rode a aplicação React
+npm run dev
+```
+
+# Em outra aba do terminal, vá para a pasta do Backend
+```bash
+# Acesse a pasta do Backend
+cd TaskiFy/backend
+
+# Rode a API ASP.NET
+dotnet run
+```
 
 
 
