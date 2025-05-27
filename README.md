@@ -30,6 +30,7 @@ TaskiFy é uma aplicação moderna de lista de tarefas (**ToDo List**) que ajuda
 ✅ Integração frontend ↔️ backend
 
 ✅ Interface responsiva e intuitiva
+
 ---
 ## 📂 Estrutura do Projeto
 ```bash
