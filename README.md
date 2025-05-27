@@ -1,53 +1,10 @@
-🚀 TaskiFy - Sua Todo List Inteligente
+## 🚀 TaskiFy - Sua Todo List Inteligente
 TaskiFy é uma aplicação moderna de lista de tarefas (todo list) feita com 💙 React + Vite no frontend e um backend robusto em 🧱 ASP.NET Web API.
 Gerencie suas tarefas com todas as funções que você precisa, tudo conectado via uma API criada por mim!
 
-🔧 Tecnologias
+🛠️ Tecnologias
 Frontend: React + Vite ⚛️⚡
 
 Backend: ASP.NET Web API 🧱
 
 Comunicação: API REST 🚦
-
-📋 Funcionalidades
-➕ Criar tarefas
-
-👀 Visualizar tarefas
-
-✏️ Editar tarefas
-
-✅ Marcar tarefas como concluídas
-
-🗑️ Deletar tarefas
-
-🔄 Persistência via API customizada
-
-📁 Estrutura do projeto
-Copiar
-Editar
-/TaskiFy  
-├── backend/   ← Backend ASP.NET  
-└── frontend/  ← Frontend React + Vite  
-🚀 Como rodar o projeto
-Pré-requisitos
-.NET SDK instalado
-
-Node.js e npm/yarn instalados
-
-1️⃣ Rodando o backend
-Navegue até a pasta backend, rode o comando para restaurar as dependências (pacotes NuGet) e depois inicie o servidor.
-
-O comando dotnet restore baixa todas as dependências necessárias para o projeto funcionar.
-Obs: Atualmente, dotnet run já executa o restore automaticamente, mas rodar manualmente é uma boa prática ao pegar o projeto pela primeira vez.
-
-A API estará disponível em http://localhost:5260 (confirme no terminal).
-
-2️⃣ Rodando o frontend
-Navegue até a pasta frontend, instale as dependências e inicie o servidor de desenvolvimento.
-
-O frontend estará disponível em http://localhost:5173 (ou porta informada no terminal).
-
-⚙️ Configuração da API no frontend
-No frontend, configure a URL da API para http://localhost:5260 (ou onde seu backend estiver rodando). Ajuste se necessário.
-
-
