@@ -65,7 +65,7 @@ npm install
 npm run dev
 ```
 
-# Abra o terminal , vá para a pasta do frontend
+### Abra o terminal , vá para a pasta do frontend
 ```bash
 # Acesse a pasta do frontend
 cd TaskiFy/frontend
@@ -77,7 +77,7 @@ npm install
 npm run dev
 ```
 
-# Em outra aba do terminal, vá para a pasta do Backend
+### Em outra aba do terminal, vá para a pasta do Backend
 ```bash
 # Acesse a pasta do Backend
 cd TaskiFy/backend
