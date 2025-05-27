@@ -10,14 +10,13 @@ TaskiFy é uma aplicação moderna de lista de tarefas (**ToDo List**) que ajuda
 
 - ⚛️ React
 - ⚡ Vite
-- 💅 CSS Modules ou Tailwind (adicione aqui o que estiver usando)
-- 🔁 Axios ou Fetch API
+- 💅 Tailwind
+- 🔁 Axios
 
 ### 🛠️ Backend
 
 - 🧱 ASP.NET Core
-- 🗄️ Entity Framework
-- 🔐 JWT para autenticação (se aplicável)
+- 🌐 REST API
 
 ---
 
