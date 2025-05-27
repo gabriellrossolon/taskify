@@ -1,0 +1,9 @@
+{
+  "name": "API .NET Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [5260],
+  "postCreateCommand": "dotnet restore",
+  "remoteUser": "root"
+}
