@@ -54,15 +54,6 @@ TaskiFy/
 ```bash
 # Clone o repositório
 git clone https://github.com/seunome/TaskiFy.git
-
-# Acesse a pasta do frontend
-cd TaskiFy/frontend
-
-# Instale as dependências
-npm install
-
-# Rode a aplicação React
-npm run dev
 ```
 
 ### Abra o terminal , vá para a pasta do frontend
