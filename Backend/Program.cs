@@ -11,9 +11,18 @@ builder.Services.AddCors(options =>
     });
 });
 
+// Adiciona suporte a controllers
 builder.Services.AddControllers();
 
+// Adiciona serviços do Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
+
+// Ativa o Swagger em ambiente de produção
+app.UseSwagger();
+app.UseSwaggerUI();
 
 // app.UseHttpsRedirection();
 app.UseRouting();

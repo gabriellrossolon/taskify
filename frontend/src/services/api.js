@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5260"  // só o host e porta, sem https e sem /task
+  baseURL: "https://taskifybackend-chbdh8dwghbegfhy.brazilsouth-01.azurewebsites.net"
 });
 
 export default api;

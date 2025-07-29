@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "RhonNq/412Q=",
+  "dgSpecHash": "zTc68UjzuBI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Sistema - Asstramed\\Desktop\\Pessoal\\Dev\\1_PROJETOS\\Taskify\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
-    "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.3\\swashbuckle.aspnetcore.swagger.9.0.3.nupkg.sha512",
+    "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.3\\swashbuckle.aspnetcore.swaggergen.9.0.3.nupkg.sha512",
+    "C:\\Users\\Sistema - Asstramed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.3\\swashbuckle.aspnetcore.swaggerui.9.0.3.nupkg.sha512"
   ],
   "logs": []
 }

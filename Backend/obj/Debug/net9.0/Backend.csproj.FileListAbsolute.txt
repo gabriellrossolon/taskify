@@ -27,3 +27,11 @@ C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\
 C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\Backend.genruntimeconfig.cache
 C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\ref\Backend.dll
 C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\Backend.sourcelink.json
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sistema - Asstramed\Desktop\Pessoal\Dev\1_PROJETOS\Taskify\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
