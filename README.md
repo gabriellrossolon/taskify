@@ -1,6 +1,9 @@
 # 📝 TaskiFy
 
-TaskiFy é uma aplicação moderna de lista de tarefas (**ToDo List**) que ajuda você a organizar seu dia a dia de forma simples e eficiente. O projeto utiliza **React + Vite** no frontend e **ASP.NET Core** no backend para garantir desempenho e escalabilidade. 🚀
+**TaskiFy** é uma aplicação moderna de lista de tarefas (**ToDo List**) que ajuda você a organizar seu dia a dia de forma simples e eficiente. A interface é rápida, responsiva e intuitiva — ideal para uso pessoal ou como projeto de portfólio.
+
+🚀 **Acesse agora:**  
+🔗 [https://taskify-seven-mocha.vercel.app](https://taskify-seven-mocha.vercel.app)
 
 ---
 
@@ -8,70 +11,49 @@ TaskiFy é uma aplicação moderna de lista de tarefas (**ToDo List**) que ajuda
 
 ### 🔮 Frontend
 
-- ⚛️ React
-- ⚡ Vite
-- 💅 Tailwind
-- 🔁 Axios
+- ⚛️ React  
+- ⚡ Vite  
+- 💅 Tailwind CSS  
+- 🔁 Axios  
+- ☁️ **Hospedado na Vercel**
 
 ### 🛠️ Backend
 
-- 🧱 ASP.NET Core
-- 🌐 REST API
+- 🧱 ASP.NET Core  
+- 🌐 REST API  
+- ☁️ **Deploy via Azure App Service**
 
 ---
 
 ## 🎯 Funcionalidades
-✅ Adicionar, editar e excluir tarefas
 
-✅ Marcar tarefas como concluídas
+✅ Adicionar, editar e excluir tarefas  
+✅ Marcar tarefas como concluídas  
+✅ Filtrar tarefas por status  
+✅ Integração frontend ↔️ backend em tempo real  
+✅ Interface responsiva e moderna  
 
-✅ Filtrar tarefas por status
-
-✅ Integração frontend ↔️ backend
-
-✅ Interface responsiva e intuitiva
+> ℹ️ *Este é um projeto de portfólio. Não há sistema de autenticação; os dados são públicos e persistem enquanto a API estiver online.*
 
 ---
+
+## 🌐 Como utilizar
+
+Não é necessário rodar nada localmente!  
+Basta acessar a aplicação já hospedada:
+
+- 🔗 **Frontend (Vercel):** [https://taskify-seven-mocha.vercel.app](https://taskify-seven-mocha.vercel.app)  
+- ☁️ **Backend (Azure):** API REST em execução contínua no Azure App Service
+
+---
+
 ## 📂 Estrutura do Projeto
+
 ```bash
 TaskiFy/
-├── frontend/       # Aplicação React + Vite
-└── backend/        # API ASP.NET Core
-```
+├── frontend/       # Aplicação React + Vite (deploy na Vercel)
+└── backend/        # API ASP.NET Core (deploy via Azure App Service)
 
----
-
-### ⚙️ Pré-requisitos
-
-- Node.js
-- .NET 7 SDK ou superior
-  
----
-
-## 📦 Como rodar o projeto localmente
-
-### 🚀 Instalação e execução
-```bash
-# Clone o repositório
-git clone https://github.com/seunome/TaskiFy.git
-```
-
-### Abra o terminal , vá para a pasta do frontend
-```bash
-# Acesse a pasta do frontend
-cd TaskiFy/frontend
-
-# Instale as dependências
-npm install
-
-# Rode a aplicação React
-npm run dev
-```
-
-### Em outra aba do terminal, vá para a pasta do Backend
-```bash
-# Acesse a pasta do Backend
-cd TaskiFy/backend
 
 # Rode a API ASP.NET
 dotnet run
